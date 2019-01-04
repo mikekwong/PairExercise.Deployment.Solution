@@ -22,6 +22,6 @@ before_script:
 # deploy:
 #   skip_cleanup: true # prevents travis from deleting the build
 #   provider: heroku
-#   app: YOUR-HEROKU-APP-NAME-HERE # see README
+#   app: hoolahoops # see README
 #   api_key:
-#     secure: YOUR-***ENCRYPTED***-API-KEY-HERE
+#     secure: mvo3eVOpBAJ+Oda/zJNI4PGAbqbZ8DoPels4VbNq+ZHctaDgzIUyQU1zT2K2+gNg0iHhYmH7zfWWLUgJk3I6c7gyVHC9cPcqgkSBWo1rE+Figalwl3sI26i2UQM5EjwN9X3CoYEsd+IIvyWjq2tqoOVFgxpuo20zNfSF0dEHuXVjh4yN4oH7zATYiFRdX2Nno4CfSOA8l9N78NW7lDVOjGONFcPUooMD2SNnADQEqDbStirS/AKuCzWYc3cPgOlIVi6VX49Y9HN46OdENwDUkt7eA3WSjJKC6jU7IIQqXQnbbSmzhiAve+t/823T3Pjeqi2td+jzU+VPzkFODdUQMx4ChqmmUxOZJuw7fct/uEkafw4Ki9z7fvjeh5BlIwAkhBtD76eaigJny6GDHE5+WYyC2GIMqZeWxxrbeCd592fH8eoW2LueLhHRtIjG2eSdAJxk27LyvlPw6PIcHT9it+i2ZfLfEgpoETLukLMX34XCVULKw5a24P/TDWpElunvVbArSaGuXkah+YwUZGDnbxfSuhDpKCUXdCLJ5d0pLcGaF/vrADHH0oxjdqlEh46jbeNz5hTIZqhQ9slK3xU5WAEveihf6BM5wBWz8ueFal56TtlrcKNB+fsCp6CpLkVeOGtUBw29xAd8K6ZEI8iNvYZua+il6I9jN7QiQcpVkuU=
